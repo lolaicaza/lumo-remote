@@ -1,0 +1,8 @@
+{
+  "app-name": "Lumo Remote",
+  "override-settings": {
+    "custom-rendezvous-server": "142.93.118.105",
+    "relay-server": "142.93.118.105",
+    "key": "xr3cX8LkAjrLpylPqIlhH9jvxdsMkwZbYbExkTua+uE="
+  }
+}
